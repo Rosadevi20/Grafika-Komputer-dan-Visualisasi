@@ -128,6 +128,7 @@
     <ClCompile Include="Demo.cpp" />
     <ClCompile Include="RenderEngine.cpp" />
     <ClCompile Include="commit1.cpp" />
+    <ClCompile Include="rosa1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Demo.h" />
